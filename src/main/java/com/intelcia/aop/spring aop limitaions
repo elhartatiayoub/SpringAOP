@@ -1,0 +1,3 @@
+spring aop ne permet pas l'auto proxing des aspect: un aspect est automatiquement exclu du proxing
+Les point cut sont limité selement au methode dans spring AOP et nom le attribus;
+un object ne peut etre 'adviser' que s'il est @component
